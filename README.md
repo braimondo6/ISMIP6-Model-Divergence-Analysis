@@ -10,7 +10,7 @@ Understanding the sources of divergence among ice sheet models is crucial for im
 
 2.  **Cluster** regions or models exhibiting similar divergence patterns.
 
-3.  **Interpret** the features (e.g., initial year, initial SMV) that primarily drive these identified clusters.
+3.  **Interpret** the features (e.g., initial year, initial SMB) that primarily drive these identified clusters.
 
 4.  **Visualize** the results spatially to provide geographical context.
 
